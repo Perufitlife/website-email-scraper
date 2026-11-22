@@ -1,0 +1,509 @@
+[
+  {
+    "domain": "ritualcoffee.com",
+    "companyName": "Ritual Coffee Roasters",
+    "emails": [],
+    "emailDetails": [],
+    "phones": [
+      "+1 415 641 1011",
+      "+1 415 865 0989",
+      "+1 707 253 1190",
+      "+1 415 641 1024"
+    ],
+    "phonesVerifiedByLink": false,
+    "addresses": [],
+    "socialLinks": {
+      "twitter": "https://x.com/ritualcoffee",
+      "facebook": "https://www.facebook.com/ritualroasters",
+      "instagram": "https://www.instagram.com/ritualcoffee",
+      "youtube": "https://www.youtube.com/channel/UCMB6zsuZ6jt_2mqngG8zJ-A"
+    },
+    "contactPageUrl": "https://ritualcoffee.com/contact/",
+    "hasContactForm": true,
+    "techStack": [
+      "Google Analytics",
+      "WordPress",
+      "jQuery"
+    ],
+    "pagesCrawled": 4,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:56:34.048Z",
+    "status": "found"
+  },
+  {
+    "domain": "coavacoffee.com",
+    "companyName": "Coava Coffee Roasters",
+    "emails": [
+      "info@coavacoffee.com"
+    ],
+    "emailDetails": [
+      {
+        "email": "info@coavacoffee.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://coavacoffee.com/contact",
+        "hasMxRecord": true
+      }
+    ],
+    "phones": [],
+    "phonesVerifiedByLink": false,
+    "addresses": [],
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/company/coava-coffee-roasters",
+      "twitter": "https://x.com/coavacoffee",
+      "facebook": "https://www.facebook.com/coavacoffee",
+      "instagram": "https://www.instagram.com/coavacoffee"
+    },
+    "contactPageUrl": "https://coavacoffee.com/contact",
+    "hasContactForm": false,
+    "techStack": [
+      "Google Tag Manager"
+    ],
+    "pagesCrawled": 4,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:56:34.168Z",
+    "status": "found"
+  },
+  {
+    "domain": "onyxcoffeelab.com",
+    "companyName": "Onyx Coffee Lab",
+    "emails": [
+      "events@onyxcoffeelab.com",
+      "info@onyxcoffeelab.com",
+      "support@onyxcoffeelab.com",
+      "wholesale@onyxcoffeelab.com",
+      "info@onyxcoffelab.com"
+    ],
+    "emailDetails": [
+      {
+        "email": "events@onyxcoffeelab.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "page",
+        "sourceUrl": "https://onyxcoffeelab.com/pages/support",
+        "hasMxRecord": true
+      },
+      {
+        "email": "info@onyxcoffeelab.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://onyxcoffeelab.com/pages/support",
+        "hasMxRecord": true
+      },
+      {
+        "email": "support@onyxcoffeelab.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://onyxcoffeelab.com/",
+        "hasMxRecord": true
+      },
+      {
+        "email": "wholesale@onyxcoffeelab.com",
+        "type": "other",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://onyxcoffeelab.com/pages/support",
+        "hasMxRecord": true
+      },
+      {
+        "email": "info@onyxcoffelab.com",
+        "type": "role",
+        "onCompanyDomain": false,
+        "foundIn": "mailto",
+        "sourceUrl": "https://onyxcoffeelab.com/pages/support",
+        "hasMxRecord": true
+      }
+    ],
+    "phones": [
+      "+1 800 468 6699"
+    ],
+    "phonesVerifiedByLink": true,
+    "addresses": [],
+    "socialLinks": {
+      "twitter": "https://twitter.com/OnyxCoffeeLab",
+      "facebook": "https://www.facebook.com/OnyxCoffeeLab",
+      "instagram": "https://www.instagram.com/onyxcoffeelab",
+      "youtube": "https://www.youtube.com/user/OnyxCoffeeLab",
+      "tiktok": "https://www.tiktok.com/@onyxcoffeelab"
+    },
+    "contactPageUrl": "",
+    "hasContactForm": false,
+    "techStack": [
+      "Shopify"
+    ],
+    "pagesCrawled": 4,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:56:34.277Z",
+    "status": "found"
+  },
+  {
+    "domain": "georgehowellcoffee.com",
+    "companyName": "George Howell Coffee",
+    "emails": [
+      "hello@georgehowellcoffee.com",
+      "info@georgehowellcoffee.com",
+      "sales@georgehowellcoffee.com",
+      "webstore@georgehowellcoffee.com"
+    ],
+    "emailDetails": [
+      {
+        "email": "hello@georgehowellcoffee.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://georgehowellcoffee.com/pages/contact-us",
+        "hasMxRecord": true
+      },
+      {
+        "email": "info@georgehowellcoffee.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "page",
+        "sourceUrl": "https://georgehowellcoffee.com/pages/contact-us",
+        "hasMxRecord": true
+      },
+      {
+        "email": "sales@georgehowellcoffee.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://georgehowellcoffee.com/pages/contact-us",
+        "hasMxRecord": true
+      },
+      {
+        "email": "webstore@georgehowellcoffee.com",
+        "type": "other",
+        "onCompanyDomain": true,
+        "foundIn": "page",
+        "sourceUrl": "https://georgehowellcoffee.com/pages/contact-us",
+        "hasMxRecord": true
+      }
+    ],
+    "phones": [
+      "+1 978 635 9033"
+    ],
+    "phonesVerifiedByLink": false,
+    "addresses": [],
+    "socialLinks": {
+      "twitter": "https://twitter.com/ghowellcoffee",
+      "facebook": "https://www.facebook.com/GHowellCoffee",
+      "instagram": "https://www.instagram.com/ghowellcoffee",
+      "youtube": "https://www.youtube.com/c/GeorgeHowellCoffee"
+    },
+    "contactPageUrl": "https://georgehowellcoffee.com/pages/contact-us",
+    "hasContactForm": true,
+    "techStack": [
+      "Shopify"
+    ],
+    "pagesCrawled": 3,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:56:34.474Z",
+    "status": "found"
+  },
+  {
+    "domain": "sightglasscoffee.com",
+    "companyName": "Sightglass Coffee",
+    "emails": [
+      "hello@sightglasscoffee.com"
+    ],
+    "emailDetails": [
+      {
+        "email": "hello@sightglasscoffee.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://sightglasscoffee.com/pages/about-us",
+        "hasMxRecord": true
+      }
+    ],
+    "phones": [],
+    "phonesVerifiedByLink": false,
+    "addresses": [],
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/company/sightglass",
+      "facebook": "https://www.facebook.com/sightglasscoffee",
+      "instagram": "https://instagram.com/sightglass",
+      "tiktok": "https://tiktok.com/@sightglasscoffee"
+    },
+    "contactPageUrl": "",
+    "hasContactForm": false,
+    "techStack": [
+      "Shopify"
+    ],
+    "pagesCrawled": 2,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:56:34.576Z",
+    "status": "found"
+  },
+  {
+    "domain": "vervecoffee.com",
+    "companyName": "Verve Coffee Roasters",
+    "emails": [
+      "donations@vervecoffee.com",
+      "support@vervecoffee.com",
+      "wholesale@vervecoffee.com"
+    ],
+    "emailDetails": [
+      {
+        "email": "donations@vervecoffee.com",
+        "type": "other",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://www.vervecoffee.com/pages/contact",
+        "hasMxRecord": true
+      },
+      {
+        "email": "support@vervecoffee.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://www.vervecoffee.com/",
+        "hasMxRecord": true
+      },
+      {
+        "email": "wholesale@vervecoffee.com",
+        "type": "other",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://www.vervecoffee.com/pages/contact",
+        "hasMxRecord": true
+      }
+    ],
+    "phones": [
+      "+1 831 464 8141",
+      "+1 213 419 5077",
+      "+1 310 385 9605",
+      "+1 323 424 7008",
+      "+1 424 370 0321",
+      "+1 831 471 7726",
+      "+1 831 706 2369",
+      "+1 831 216 4448",
+      "+1 831 425 5648",
+      "+1 415 780 0867",
+      "+1 831 440 3978",
+      "+81 3 6416 8102",
+      "+81 3 6721 6788"
+    ],
+    "phonesVerifiedByLink": true,
+    "addresses": [],
+    "socialLinks": {
+      "facebook": "https://facebook.com/vervecoffee",
+      "instagram": "http://instagram.com/vervecoffee"
+    },
+    "contactPageUrl": "https://www.vervecoffee.com/pages/contact",
+    "hasContactForm": true,
+    "techStack": [
+      "Cloudflare",
+      "Google Tag Manager",
+      "Shopify",
+      "jQuery"
+    ],
+    "pagesCrawled": 3,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:56:34.805Z",
+    "status": "found"
+  },
+  {
+    "domain": "heartroasters.com",
+    "companyName": "Heart Coffee Roasters",
+    "emails": [
+      "coffee@heartroasters.com",
+      "work@heartroasters.com"
+    ],
+    "emailDetails": [
+      {
+        "email": "coffee@heartroasters.com",
+        "type": "other",
+        "onCompanyDomain": true,
+        "foundIn": "page",
+        "sourceUrl": "https://www.heartroasters.com/",
+        "hasMxRecord": true
+      },
+      {
+        "email": "work@heartroasters.com",
+        "type": "other",
+        "onCompanyDomain": true,
+        "foundIn": "page",
+        "sourceUrl": "https://www.heartroasters.com/pages/contact",
+        "hasMxRecord": true
+      }
+    ],
+    "phones": [
+      "+1 503 206 6602",
+      "+1 503 208 2710"
+    ],
+    "phonesVerifiedByLink": false,
+    "addresses": [],
+    "socialLinks": {
+      "twitter": "https://twitter.com/heartroasters",
+      "facebook": "https://www.facebook.com/HeartRoasters",
+      "instagram": "https://www.instagram.com/heartroasters"
+    },
+    "contactPageUrl": "https://www.heartroasters.com/pages/contact",
+    "hasContactForm": false,
+    "techStack": [
+      "Cloudflare",
+      "Shopify",
+      "jQuery"
+    ],
+    "pagesCrawled": 4,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:56:34.866Z",
+    "status": "found"
+  },
+  {
+    "domain": "counterculturecoffee.com",
+    "companyName": "Counter Culture Coffee",
+    "emails": [
+      "info@counterculturecoffee.com",
+      "retail@counterculturecoffee.com"
+    ],
+    "emailDetails": [
+      {
+        "email": "info@counterculturecoffee.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://counterculturecoffee.com/pages/help-faq",
+        "hasMxRecord": true
+      },
+      {
+        "email": "retail@counterculturecoffee.com",
+        "type": "other",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://counterculturecoffee.com/pages/help-faq",
+        "hasMxRecord": true
+      }
+    ],
+    "phones": [],
+    "phonesVerifiedByLink": false,
+    "addresses": [],
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/counterculturecoffee",
+      "instagram": "https://www.instagram.com/counterculturecoffee",
+      "youtube": "https://www.youtube.com/c/counterculturecoffee"
+    },
+    "contactPageUrl": "https://counterculturecoffee.com/pages/contact-us",
+    "hasContactForm": false,
+    "techStack": [
+      "Google Tag Manager",
+      "Shopify",
+      "Tailwind CSS",
+      "WordPress",
+      "jQuery"
+    ],
+    "pagesCrawled": 4,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:56:34.938Z",
+    "status": "found"
+  },
+  {
+    "domain": "madcapcoffee.com",
+    "companyName": "Madcap Coffee Company",
+    "emails": [
+      "info@madcapcoffee.com"
+    ],
+    "emailDetails": [
+      {
+        "email": "info@madcapcoffee.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://www.madcapcoffee.com/",
+        "hasMxRecord": true
+      }
+    ],
+    "phones": [
+      "+1 888 866 9091"
+    ],
+    "phonesVerifiedByLink": false,
+    "addresses": [
+      "1041 Fulton St E, Grand Rapids, MI, 49503, United States",
+      "1041 Fulton St E, Grand Rapids, MI, 49503, US"
+    ],
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/company/madcap-coffee-company",
+      "facebook": "https://www.facebook.com/madcapcoffee",
+      "instagram": "https://www.instagram.com/madcapcoffee",
+      "youtube": "https://www.youtube.com/channel/UCGyWialdOPuvoESkmnEdVkg",
+      "tiktok": "https://www.tiktok.com/@madcapcoffee"
+    },
+    "contactPageUrl": "https://www.madcapcoffee.com/pages/contact",
+    "hasContactForm": true,
+    "techStack": [
+      "HubSpot",
+      "Shopify",
+      "jQuery"
+    ],
+    "pagesCrawled": 2,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:56:34.985Z",
+    "status": "found"
+  },
+  {
+    "domain": "equatorcoffees.com",
+    "companyName": "Equator Coffees",
+    "emails": [
+      "info@equatorcoffees.com"
+    ],
+    "emailDetails": [
+      {
+        "email": "info@equatorcoffees.com",
+        "type": "role",
+        "onCompanyDomain": true,
+        "foundIn": "mailto",
+        "sourceUrl": "https://www.equatorcoffees.com/pages/contact-us",
+        "hasMxRecord": true
+      }
+    ],
+    "phones": [
+      "+1 800 809 7687"
+    ],
+    "phonesVerifiedByLink": true,
+    "addresses": [],
+    "socialLinks": {
+      "instagram": "https://instagram.com/equatorcoffees",
+      "tiktok": "https://tiktok.com/@equatorcoffees",
+      "linkedin": "https://www.linkedin.com/company/equator-coffees"
+    },
+    "contactPageUrl": "https://www.equatorcoffees.com/pages/contact-us",
+    "hasContactForm": true,
+    "techStack": [
+      "Shopify"
+    ],
+    "pagesCrawled": 4,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:56:35.035Z",
+    "status": "found"
+  },
+  {
+    "domain": "olympiacoffee.com",
+    "companyName": "Olympia Coffee Roasting Company",
+    "emails": [],
+    "emailDetails": [],
+    "phones": [],
+    "phonesVerifiedByLink": false,
+    "addresses": [],
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/company/olympiacoffee",
+      "twitter": "https://twitter.com/olympiacoffee",
+      "facebook": "https://www.facebook.com/olympiacoffee",
+      "instagram": "https://instagram.com/olympiacoffee",
+      "youtube": "https://www.youtube.com/channel/UCUmuDY3LQB4mk5pw7CbV7vg",
+      "tiktok": "https://www.tiktok.com/@olympia.coffee"
+    },
+    "contactPageUrl": "",
+    "hasContactForm": false,
+    "techStack": [
+      "Shopify"
+    ],
+    "pagesCrawled": 1,
+    "method": "http",
+    "scrapedAt": "2026-11-22T09:57:07.430Z",
+    "status": "found"
+  }
+]
